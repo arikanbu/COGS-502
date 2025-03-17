@@ -1,2 +1,2 @@
-# cogs502
-The best version of lib along homeworks
+# COGS-502 Homework Function Library
+The best versions of functions along homeworks
